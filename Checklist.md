@@ -14,4 +14,6 @@ After shifting to Vivado with basys 3 implementation
 | 6 | Flip flops : J -K , S -R , D , T | ⏳ In Progress | Have completed the D FF simulation but facing issues in implementation | 
 | 7 | Synchronous Counter |  ✅ Done  | Build a top module : synchronous counter, a clock divider  and then a binary to 7 seg module, generated bit file and implemented on basys 3 ( video available) | 
 | 8 |  4 bit ALU |  ⏳ In Progress | |
-| 9 | FSM |  ⏳ In Progress | | 
+| 9 | FSM |  📋 Planned   | | 
+| 10 | carry look ahead adder | 📋 Planned   | | 
+| 11 |  4 bit binary ripple adder | 📋 Planned   | | 
