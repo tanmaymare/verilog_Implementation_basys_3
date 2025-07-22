@@ -5,7 +5,7 @@
 | 1 | Basic Gates : And, Or, Not , Xor | ✅ Done | Wrote modules and testbenches of each gate and then using icarus verilog and GTK wave simulated them. |
 | 2 | Mux | ✅ Done | Build 2:1 , 4:1 and 8:1 modules and there respective test benches using icarus verilog |
 | 3 | encoders & decoders | ✅ Done | 4:2 Priority encoder, decoders 2:4 and 3:8 | 
-| 4 | Majority gate & 3 input Xor followed by And | Majority gate: consisting 3 And gates followed by Or gate, 3 input Xor logic followed by And |
+| 4 | Majority gate & 3 input Xor followed by And | ✅ Done |  Majority gate: consisting 3 And gates followed by Or gate, 3 input Xor logic followed by And |
 
 After shifting to Vivado with basys 3 implementation
  |   Sr.No  | Module name             | Status     | Notes                       |
